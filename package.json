@@ -1,0 +1,17 @@
+{
+  "name": "daliymail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "server": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.10.7",
+    "node-fetch": "2.6.1",
+    "nodemailer": "^6.7.2"
+  }
+}
