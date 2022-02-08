@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "server": "node src/index.js"
+    "server": "node src/index.js",
+    "babel": "babel src -w -d lib"
   },
   "author": "",
   "license": "ISC",
